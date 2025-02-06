@@ -86,7 +86,7 @@ try {
 
 <footer>
     <p>WebLlume est un projet du cours <strong>Programmation web avancée</strong> avec <strong>Marcos Sanches</strong>.</p>
-    <p>Conçu et codé avec ❤️ par 
+    <p>Conçue et codée avec ❤️ par 
         <a href="https://github.com/patrihow" target="_blank">@patrihow</a>.
     </p>
     <p>© 2024 WebLlume. Tous droits réservés.</p>
