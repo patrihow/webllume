@@ -11,7 +11,7 @@ WebLlume est un portfolio développé en PHP orienté objet avec une base de don
 ### Diagramme de relation d'entité
 Voici le diagramme de la base de données :
 
-![Diagramme ER](https://github.com/patrihow/webllume/docs/diagramme-ER.png)
+![Diagramme ER](https://github.com/patrihow/webllume/blob/main/docs/diagramme-ER.png)
 
 ---
 
