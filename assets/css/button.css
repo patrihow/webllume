@@ -1,0 +1,27 @@
+
+button {
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    color: var(--color-white);
+    border: none;
+}
+
+.form-button {
+    background-color: var(--color-accent);
+    transition: background-color 0.3s;
+}
+
+.form-button:hover {
+    background-color: var(--color-primary);
+}
+
+button.red {
+    background-color: rgb(175, 18, 18);
+    transition: background-color 0.3s;
+}
+
+button.red:hover {
+    background-color: rgb(118, 5, 5);
+}

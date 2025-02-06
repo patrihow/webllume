@@ -1,0 +1,39 @@
+nav {
+    display: flex; 
+    align-items: center; 
+    background-color: var(--color-white); 
+    padding: 10px; 
+    gap: 20px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul {
+    list-style-type: none; 
+    display: flex; 
+    margin: 0; 
+    padding: 0; 
+}
+
+nav ul li {
+    margin-right: 20px; 
+}
+
+nav ul li:last-child {
+    margin-right: 0; 
+}
+
+nav a {
+    text-decoration: none; 
+    color: #007bff; 
+}
+
+nav a:hover {
+    text-decoration: underline; 
+}
+.logo {
+    padding: 0 40px 0 20px;
+    font-weight: 700;
+    font-size: 1rem;
+}
